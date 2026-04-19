@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles for rofi , polybar , alacritty and picom. Just copy and paste to get a sleek minimal window manager.
+Dotfiles for rofi, polybar, alacritty and picom. Just copy and paste to get a sleek minimal window manager.
 The configs are primarily made in bspwm but works on all linux distribution and all window managers with mentioned programs , best for x11 based wm.
 
 ---
